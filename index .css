@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#navbar{
+    height: 60px;
+    background-color: rgb(27, 20, 20);
+}
+#logo{
+    font-style: italic;
+    font-size: 50px;
+    color: rgb(175, 92, 174);
+
+}
+a{
+    margin: 80px;
+}
+
+button{
+  
+    background-color: rgb(201, 155, 36);
+}
+
+
+   
+    
+
+body{
+    background-image: url(url(image.jpg));
+}
+
+
